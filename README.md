@@ -1,2 +1,2 @@
 # KBG-KinematicSteering
-Kecerdasan Buatan Dalam Game - Kinematic Steering
+Kecerdasan buatan Dalam Game - Kinematic Steering
